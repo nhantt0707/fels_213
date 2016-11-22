@@ -21,5 +21,12 @@
 
 en:
   hello: "Hello world"
-  staticpages:
-    title: "fels_213"
+  title: "E Learning"
+  contact_page:
+    title: "Contact"
+    des: "Contact the admin throught"
+    face: "Facebook"
+    insta: "Instagram"
+    phone: "01664708942"
+  home_page:
+    intro: "Welcome to E Learning"
