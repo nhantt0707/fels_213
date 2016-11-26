@@ -30,3 +30,7 @@ en:
     phone: "01664708942"
   home_page:
     intro: "Welcome to E Learning"
+  word:
+    list_words: "List all words"
+    word: "Word"
+    mean: "Meaning"
